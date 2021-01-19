@@ -83,7 +83,7 @@ VS Code allows for user-created extensions to be installed to add features, them
 
 *Prettier* - Enforces a built-in style guide on your code to ensure tabulation, spacing, indents, etc. are all uniform.  There are a few steps to installing and configuring Prettier that we'll go through together:
 1. Search for and install the VS Code extension just like we did the previous ones
-2. Hit `` Cmd + ` `` and in the built in Terminal, enter the following commands:
+2. Hit `` Ctrl + ` `` and in the built in Terminal, enter the following commands:
    - ` npm i -g prettier `
      - installs Prettier *globally* on our machines so we always have it
    - ` touch ~/.prettierrc `
