@@ -23,35 +23,35 @@ This lesson is a brief introduction to VS Code by Microsoft, the go-to text edit
 ![Basic Layout](https://code.visualstudio.com/assets/docs/getstarted/userinterface/hero.png)
 ### Basic Layout
 
-**Activity Bar** - Use these buttons to switch between and show/hide different views
+*Activity Bar* - Use these buttons to switch between and show/hide different views
 
-**Side Bar** - Contains views like the *Explorer View* in a compact and navigable way
+*Side Bar* - Contains views like the *Explorer View* in a compact and navigable way
 
-**Editor Groups** - This is the main area for editing your code. Can be configured in any layout so you can view multiple files at once.
+*Editor Groups* - This is the main area for editing your code. Can be configured in any layout so you can view multiple files at once.
 
-**Panel** - Can show panels for debugging, output, errors and warnings, but most importantly *an integrated terminal*.
+*Panel* - Can show panels for debugging, output, errors and warnings, but most importantly *an integrated terminal*.
 
-**Status Bar** - Shows relevant information about the current open project
+*Status Bar* - Shows relevant information about the current open project
 
 ### Features
 
-**State Preservation** - VS Code will always open in the same state you left it in.  This is an extremely handy feature. Let's try it!
+*State Preservation* - VS Code will always open in the same state you left it in.  This is an extremely handy feature. Let's try it!
 
-**Side by Side Editing** - You can rearrange your editor windows so that you can view several at once. Let's try that!
+*Side by Side Editing* - You can rearrange your editor windows so that you can view several at once. Let's try that!
 
-**MiniMap** - You can also display a code outline or "minimap" for quick navigation through a lot of code. Try View -> Show Minimap.
+*MiniMap* - You can also display a code outline or "minimap" for quick navigation through a lot of code. Try View -> Show Minimap.
 
-**Breadcrumbs** - Above each open file is a path to help you keep track of your file locations.
+*Breadcrumbs* - Above each open file is a path to help you keep track of your file locations.
   
 ### Hot Keys and Shortcuts
 
-**Open Terminal** - Quickly open your built-in terminal quickly by hitting ` Ctrl + ` `
+*Open Terminal* - Quickly open your built-in terminal quickly by hitting `` Ctrl + ` ``
 
-**Save** - Save the file you're working on with ` Cmd + S ` (sub ` Ctrl ` for ` Cmd ` if using Windows going forward)
+*Save* - Save the file you're working on with ` Cmd + S ` (sub ` Ctrl ` for ` Cmd ` if using Windows going forward)
 
-**Open/Close Sidebar** - Quickly hide/show the sidebar with ` Cmd + B `
+*Open/Close Sidebar* - Quickly hide/show the sidebar with ` Cmd + B `
 
-**Command Palette** - Quickly open the Command Palette by hitting ` Shift + Cmd + P `. From here, you can perform a whole bunch of tasks:
+*Command Palette* - Quickly open the Command Palette by hitting ` Shift + Cmd + P `. From here, you can perform a whole bunch of tasks:
 - Find any file or project by simply typing it's name.
 - Cycle through recent files you've opened.
 - Search for specific Settings.
@@ -64,9 +64,9 @@ Let's hit ` Cmd + , ` to quickly open *Settings*...
 ### Settings
 Settings can be set for the User overall, or for a specific workspace/project.  For the most part, you'll want to configure the Settings for the User.
 
-**Auto Save** - There's a lot of debate about whether one should use Auto Save or not.  However, *best practice* is to get used to **saving your own work regularly**.  Having Auto Save turned on can overheat your machine as it attempts to re-render and re-compile entire projects with every keystroke.  For this immersive, we will set Auto Save to ` off `.
+*Auto Save* - There's a lot of debate about whether one should use Auto Save or not.  However, *best practice* is to get used to **saving your own work regularly**.  Having Auto Save turned on can overheat your machine as it attempts to re-render and re-compile entire projects with every keystroke.  For this immersive, we will set Auto Save to ` off `.
 
-**Tab Size** - This will adjust how large the indents are for your code.  For this immersive, we will set Tab Size to ` 2 `.
+*Tab Size* - This will adjust how large the indents are for your code.  For this immersive, we will set Tab Size to ` 2 `.
 
 There are ***tons*** of other settings that you can adjust and change to customize your editor. But beware, don't change something if you aren't sure what it does. VS Code gives us access to a lot more settings than a standard program. It assumes you know what you're doing since the primary users are programmers. So just be careful.
 
@@ -75,15 +75,15 @@ Let's hit ` Shft + Cmd + X ` and look at some helpful *Extensions* we can add to
 
 VS Code allows for user-created extensions to be installed to add features, theming, and useful shortcuts and bonuses not provided by the base program.  Here are a few we'll discuss and install today:
 
-**Bracket Pair Colorizer** - Automatically recolors both sides of a bracket pair so they can be easily recognized.
+*Bracket Pair Colorizer* - Automatically recolors both sides of a bracket pair so they can be easily recognized.
 
-**Indent Rainbow** - Colorizes your indentations to make it easy to tell which section you're in while coding.
+*Indent Rainbow* - Colorizes your indentations to make it easy to tell which section you're in while coding.
 
-**Python** - An extension that helps VS Code operate normally when using the Python coding language (that we'll learn and use in Unit 4). Be sure and install the extension offered by **Microsoft**.
+*Python* - An extension that helps VS Code operate normally when using the Python coding language (that we'll learn and use in Unit 4). Be sure and install the extension offered by **Microsoft**.
 
-**Prettier** - Enforces a built-in style guide on your code to ensure tabulation, spacing, indents, etc. are all uniform.  There are a few steps to installing and configuring Prettier that we'll go through together:
+*Prettier* - Enforces a built-in style guide on your code to ensure tabulation, spacing, indents, etc. are all uniform.  There are a few steps to installing and configuring Prettier that we'll go through together:
 1. Search for and install the VS Code extension just like we did the previous ones
-2. Hit ` Cmd + ` ` and in the built in Terminal, enter the following commands:
+2. Hit `` Cmd + ` `` and in the built in Terminal, enter the following commands:
    - ` npm i -g prettier `
      - installs Prettier *globally* on our machines so we always have it
    - ` touch ~/.prettierrc `
