@@ -5,7 +5,7 @@
 
 
 ## Lesson Overview
-This lesson is a brief introduction to VS Code, the go-to text editor for web developers.  You'll be spending a lot of time using this program, and the faster you are acclimated to it and become comfortable with it, the better coder you will be!
+This lesson is a brief introduction to VS Code by Microsoft, the go-to text editor for web developers.  You'll be spending a lot of time using this program, and the faster you are acclimated to it and become comfortable with it, the better coder you will be!  In this lesson we'll review the basic layout, usage of common features, and review a few things that can take VS Code even further like hot keys and Extensions.
 
 ## Objectives
   - Review the main features and layout of VS Code
@@ -14,8 +14,8 @@ This lesson is a brief introduction to VS Code, the go-to text editor for web de
   - Discuss common helpful and/or necessary *Extensions* for VS Code
 
 ## Getting Started
-  - Fork and Clone this Repository
-  - Open VS Code (open directly or use the *code* command in Terminal)
+  - Fork and Clone this Repository into your class directory
+  - Open the repo in VS Code (open directly or use the *code* command in Terminal)
   - Crack knuckles
 
 ## Lesson Instructions
