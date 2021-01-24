@@ -1,7 +1,7 @@
 # Introduction to VS Code
 
 
-![Matrix](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.stack.imgur.com%2FUAxa8.gif&f=1&nofb=1)
+![Matrix](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-R-OIqfZ-25o%2FX0Vpjwth0zI%2FAAAAAAAAVI8%2FyaZQu4DUDL8PbQn10nDGh0Jiuo8GYkbrACLcBGAsYHQ%2Fs580%2F0009.gif&f=1&nofb=1)
 
 
 ## Lesson Overview
