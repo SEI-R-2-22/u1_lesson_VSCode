@@ -130,3 +130,4 @@ A general rule of thumb is: ***do not*** install an extension unless you a) have
 ## Resources
  - [Official VS Code Docs](https://code.visualstudio.com/docs)
  - [YouTube Video Tutorials](https://www.youtube.com/watch?v=4q1tD39Mk_A&list=PLLnpHn493BHHkdpK8E37x_d5cOZBr4GlL&ab_channel=LevelUpTuts)
+ - [White Rabbit](https://youtu.be/Vy7RaQUmOzE)
