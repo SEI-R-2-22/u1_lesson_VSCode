@@ -13,6 +13,8 @@ This lesson is a brief introduction to VS Code by Microsoft, the go-to text edit
   - Review and synchronize certain *Settings* to ensure we all start off on the same page
   - Discuss common helpful and/or necessary *Extensions* for VS Code
 
+![Tank](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmention.com%2Fwp-content%2Fuploads%2F2016%2F04%2FMatrix-media-monitoring.gif&f=1&nofb=1)
+
 ## Getting Started
   - Fork and Clone this Repository into your class directory
   - Open the repo in VS Code (open directly or use the *code* command in Terminal)
@@ -43,7 +45,7 @@ This lesson is a brief introduction to VS Code by Microsoft, the go-to text edit
 
 *Breadcrumbs* - Above each open file is a path to help you keep track of your file locations.
 
-![Spoon](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi2.wp.com%2Friversofgrue.com%2Fwp-content%2Fuploads%2F2014%2F01%2Fthere-is-no-spoon-the-matrix-5-9-movie-clip-1999-hd.gif%3Fresize%3D450%252C190%26ssl%3D1&f=1&nofb=1)
+![RedPill](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F18f.gsa.gov%2Fassets%2Fblog%2Flego-workshop%2Fred-pill.gif&f=1&nofb=1)
   
 ### Hot Keys and Shortcuts
 
@@ -62,6 +64,8 @@ This lesson is a brief introduction to VS Code by Microsoft, the go-to text edit
 Using this feature can save you time and make you a more productive dev.
 
 Let's hit ` Cmd + , ` to quickly open *Settings*...
+
+![Spoon](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi2.wp.com%2Friversofgrue.com%2Fwp-content%2Fuploads%2F2014%2F01%2Fthere-is-no-spoon-the-matrix-5-9-movie-clip-1999-hd.gif%3Fresize%3D450%252C190%26ssl%3D1&f=1&nofb=1)
 
 ### Settings
 Settings can be set for the User overall, or for a specific workspace/project.  For the most part, you'll want to configure the Settings for the User.
