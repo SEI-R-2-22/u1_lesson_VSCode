@@ -116,6 +116,8 @@ VS Code allows for user-created extensions to be installed to add features, them
 
 4. Hit ` Cmd + , ` again and let's adjust one more Setting in relation to Prettier. When Settings pops up, search "Format on Save".  Make sure the checkbox for this option **is selected**.  This will free up Prettier to reformat our code when we save and make it look, well, pretty!
 
+![ShowMe](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2F2c135ca96935ae5f8b31f7ad03940168%2Ftenor.gif%3Fitemid%3D5062228&f=1&nofb=1)
+
 There are ***myriad*** other extensions available for VS Code, but much like Settings, be careful what you install/change. Not all have been properly vetted and most make *core changes* to your VS Code environment that could directly influence your ability to code properly.
 
 A general rule of thumb is: ***do not*** install an extension unless you a) have read the documentation for it, b) know what the extension does, c) have a specific need for it, and d) will actually use it.  But if you find one you want to use, don't be afraid to try it! If it's no good, just uninstall afterward.
