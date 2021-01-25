@@ -28,23 +28,23 @@ This lesson is a brief introduction to VS Code by Microsoft, the go-to text edit
 
 Take a look at the main UI (**U**ser **I**nterface) layout in the image above. Your VS Code layout may not look *exactly* like this, but it'll be close.  Let's look at each of these different sections:
 
-  **A)** ***Activity Bar*** - Use these buttons to switch between and show/hide different views.
+  **A)** ***Activity Bar*** - Use these icons to switch between and show/hide different views.
 
-  **B)** ***Side Bar*** - Contains views like the *Explorer View* in a compact and navigable way.
+  **B)** ***Side Bar*** - Contains views like the *Explorer View* to show your entire project in a compact and readable way.
 
   **C)** ***Editor Groups*** - This is the main area for editing your code. Can be configured in any layout so you can view multiple files at once.
 
-  **D)** ***Panel*** - Can show panels for debugging, output, errors and warnings, but most importantly *an integrated terminal*.
+  **D)** ***Panel*** - Can show panels for debugging, output, errors and warnings, but most importantly *an integrated terminal* (ooooh, ahhhh).
 
   **E)** ***Status Bar*** - Shows relevant information about the current open project.
 
 ### Features
 
-  ***State Preservation*** - VS Code will always open in the same state you left it in.  This is an extremely handy feature. Let's try opening a directory or something and then completely closing out of VS Code (remember how you left it). Now let's reopen the project, and look! Everything is right how we left it! 
+  ***State Preservation*** - VS Code will always open in the same state you left it in.  This is an extremely handy feature. Let's try opening a directory or something and then completely closing out of VS Code (remember how you left it). Now let's reopen the project, and look! Everything is right how we left it!
 
   ***Side by Side Editing*** - You can rearrange your editor windows so that you can view several at once. This can be *super* handy. Let's try that!
 
-  ***MiniMap*** - You can also display a code outline or "minimap" for quick navigation through a lot of code. Try View -> Show Minimap.
+  ***MiniMap*** - You can also display a code outline or "minimap" for quick navigation through a lot of code. Try View -> Show Minimap. There's a bunch of fake code in ` edit1.js ` that we can jump around in with the minimap. Let's try!
 
   ***Breadcrumbs*** - Above each open file is a path to help you keep track of the file locations.
 
