@@ -168,7 +168,7 @@ A general rule of thumb is: ***do not*** install an extension unless you **a)** 
   
 ![Believe](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F66.media.tumblr.com%2F33180dc3803c4d95c8c83b3727db4727%2Ftumblr_ozhuufZkjW1tu7563o1_500.gif&f=1&nofb=1)
 
-^ you
+^ you now
   
 ## Resources
  - [Official VS Code Docs](https://code.visualstudio.com/docs)
