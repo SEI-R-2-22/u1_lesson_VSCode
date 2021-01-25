@@ -28,15 +28,15 @@ This lesson is a brief introduction to VS Code by Microsoft, the go-to text edit
 
 Take a look at the main UI (**U**ser **I**nterface) layout in the image above. Your VS Code layout may not look *exactly* like this, but it'll be close.  Let's look at each of these different sections:
 
-  ***Activity Bar*** - Use these buttons to switch between and show/hide different views.
+  **A)** ***Activity Bar*** - Use these buttons to switch between and show/hide different views.
 
-  ***Side Bar*** - Contains views like the *Explorer View* in a compact and navigable way.
+  **B)** ***Side Bar*** - Contains views like the *Explorer View* in a compact and navigable way.
 
-  ***Editor Groups*** - This is the main area for editing your code. Can be configured in any layout so you can view multiple files at once.
+  **C)** ***Editor Groups*** - This is the main area for editing your code. Can be configured in any layout so you can view multiple files at once.
 
-  ***Panel*** - Can show panels for debugging, output, errors and warnings, but most importantly *an integrated terminal*.
+  **D)** ***Panel*** - Can show panels for debugging, output, errors and warnings, but most importantly *an integrated terminal*.
 
-  ***Status Bar*** - Shows relevant information about the current open project.
+  **E)** ***Status Bar*** - Shows relevant information about the current open project.
 
 ### Features
 
