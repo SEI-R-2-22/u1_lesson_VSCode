@@ -5,7 +5,7 @@
 
 
 ## Lesson Overview
-This lesson is a brief introduction to VS Code by Microsoft, the go-to text editor for web developers.  You'll be spending a lot of time using this program, and the faster you are acclimated to it and become comfortable with it, the better coder you will be!  In this lesson we'll review the basic layout, usage of common features, and review a few things that can take VS Code even further like hot keys and Extensions.  Hopefully you've seen the Matrix, or this could get confusing (jk).
+This lesson is a brief introduction to VS Code by Microsoft, the go-to text editor for web developers.  You'll be spending a lot of time using this program, and the faster you are acclimated to it and become comfortable with it, the better coder you will be!  In this lesson we'll review the basic layout, usage of common features, and review a few things that can take VS Code even further like hot keys and Extensions.
 
 ## Objectives
   - Review the main features and layout of VS Code
@@ -15,10 +15,9 @@ This lesson is a brief introduction to VS Code by Microsoft, the go-to text edit
 
 ![Tank](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmention.com%2Fwp-content%2Fuploads%2F2016%2F04%2FMatrix-media-monitoring.gif&f=1&nofb=1)
 
-## Getting Started (Plugging In)
+## Getting Started
   - Fork and Clone this Repository into your class directory
   - Open the repo in VS Code (open directly or use the *code* command in Terminal)
-  - Crack knuckles and say something cool and hacker-y like "we're in"
 
 ## Lesson Instructions
 
@@ -47,7 +46,7 @@ Take a look at the main UI (**U**ser **I**nterface) layout in the image above. Y
 ![DejaVu](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette2.wikia.nocookie.net%2Fsubgenius%2Fimages%2F8%2F89%2FCat_matrix_deja_vu.gif%2Frevision%2Flatest%2Fscale-to-width-down%2F398%3Fcb%3D20160306191811&f=1&nofb=1)
 ### Features 
 
-  ***State Preservation*** - VS Code will always open in the same state you left it in.  This is an extremely handy feature. Let's try opening a directory or something and then completely closing out of VS Code (remember how you left it). Now let's reopen the project, and look! Everything is right how we left it! Deja Vu.
+  ***State Preservation*** - VS Code will always open in the same state you left it in.  This is an extremely handy feature. Let's try opening a directory or something and then completely closing out of VS Code. Now let's reopen the project, and look! Everything is right how we left it!
 
   ***Side by Side Editing*** - You can rearrange your editor windows so that you can view several at once. This can be *super* handy. Let's try that!
 
@@ -61,11 +60,7 @@ Take a look at the main UI (**U**ser **I**nterface) layout in the image above. Y
 
 ![RedPill](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F18f.gsa.gov%2Fassets%2Fblog%2Flego-workshop%2Fred-pill.gif&f=1&nofb=1)
   
-### Hot Keys and Shortcuts (Red Pills)
-
-> *"Unfortunately, no one can be told what the Matrix is. You have to see it for yourself."*
-> 
-> *- Morpheus*
+### Hot Keys and Shortcuts
 
   ***Open Terminal*** - Quickly open your built-in terminal by hitting <kbd>Ctrl</kbd> + <kbd>`</kbd>
 
@@ -81,10 +76,6 @@ Take a look at the main UI (**U**ser **I**nterface) layout in the image above. Y
 
 Using this feature can save you time and make you a more productive dev.
 
-> *"Remember, all I'm offering is the truth. Nothing more."*
-> 
-> *- Morpheus*
-
 Let's hit <kbd>Cmd</kbd> + <kbd>,</kbd> to quickly open *Settings*...
 <br>
 <br>
@@ -93,7 +84,7 @@ Let's hit <kbd>Cmd</kbd> + <kbd>,</kbd> to quickly open *Settings*...
 
 ![Spoon](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi2.wp.com%2Friversofgrue.com%2Fwp-content%2Fuploads%2F2014%2F01%2Fthere-is-no-spoon-the-matrix-5-9-movie-clip-1999-hd.gif%3Fresize%3D450%252C190%26ssl%3D1&f=1&nofb=1)
 
-### Settings (Spoons?)
+### Settings
 Settings can be set for the User overall, or for a specific workspace/project.  For the most part, you'll want to configure the Settings for the User.
 
   ***Auto Save*** - There's a lot of debate about whether one should use Auto Save or not.  However, *best practice* is to get used to **saving your own work regularly**.  Having Auto Save turned on can overheat your machine as it attempts to re-render and re-compile entire projects with every keystroke.  For this immersive, we will set Auto Save to ` off `.
@@ -101,10 +92,6 @@ Settings can be set for the User overall, or for a specific workspace/project.  
   ***Tab Size*** - This will adjust how large the indents are for your code.  For this immersive, we will set Tab Size to ` 2 `.
 
 There are ***tons*** of other settings that you can adjust and change to customize your editor. But beware, don't change something if you aren't sure what it does. VS Code gives us access to a lot more settings than a standard program. It assumes you know what you're doing since the primary users are programmers. So just be careful.
-
-> *"Do not try and bend the spoon, that's  impossible.  Instead, only try to realize the truth. There is no spoon.  Then you will see that it is not the spoon that bends, it is only yourself."*
-> 
-> *- That weird little kid*
 
 Let's hit <kbd>Shft</kbd> + <kbd>Cmd</kbd> + <kbd>X</kbd> and look at some helpful *Extensions* we can add to VS Code...
 <br>
@@ -114,7 +101,7 @@ Let's hit <kbd>Shft</kbd> + <kbd>Cmd</kbd> + <kbd>X</kbd> and look at some helpf
 
 ![Upgrade](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblog.kolboid.eu%2Fcontent%2Fimages%2F2016%2F03%2Fthe-matrix-i-know-kung-fu-animation.gif&f=1&nofb=1)
 
-### Extensions (Upgrades)
+### Extensions
 
 VS Code allows for user-created extensions to be installed to add features, theming, and useful shortcuts and bonuses not provided by the base program.  Here are a few we'll discuss and install today:
 
@@ -160,15 +147,9 @@ A general rule of thumb is: ***do not*** install an extension unless you **a)** 
 
 ***
 ## Lesson Recap
-  Hopefully you feel a little more comfortable using VS Code after this lesson.  This is ***the primary tool*** you will use over the next 12 weeks (and beyond) as a web developer.  The more comfortable you are with using it, the better and more efficient you will be! Also, sorry about all the Matrix stuff. I am very tired.
-
-> *"He's beginning to believe."*
-> 
-> *- Morpheus*
+  Hopefully you feel a little more comfortable using VS Code after this lesson.  This is ***the primary tool*** you will use over the next 12 weeks (and beyond) as a web developer.  The more comfortable you are with using it, the better and more efficient you will be!
   
 ![Believe](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F66.media.tumblr.com%2F33180dc3803c4d95c8c83b3727db4727%2Ftumblr_ozhuufZkjW1tu7563o1_500.gif&f=1&nofb=1)
-
-^ you now
   
 ## Resources
  - [Official VS Code Docs](https://code.visualstudio.com/docs)
