@@ -132,7 +132,8 @@ VS Code allows for user-created extensions to be installed to add features, them
     "[javascript]": {
       "editor.defaultFormatter": "esbenp.prettier-vscode",
       "editor.formatOnSave": true
-    }
+    },
+    "editor.bracketPairColorization.enabled":true`
   ```
 
   4. Hit <kbd>Cmd</kbd> + <kbd>,</kbd> again and let's adjust one more Setting in relation to Prettier. When Settings pops up, search "Format on Save".  Make sure the checkbox for this option **is selected**.  This will free up Prettier to reformat our code when we save and make it look, well, pretty!
