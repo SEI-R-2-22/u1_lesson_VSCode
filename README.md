@@ -46,19 +46,19 @@ Take a look at the main UI (**U**ser **I**nterface) layout in the image above. Y
 ![DejaVu](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette2.wikia.nocookie.net%2Fsubgenius%2Fimages%2F8%2F89%2FCat_matrix_deja_vu.gif%2Frevision%2Flatest%2Fscale-to-width-down%2F398%3Fcb%3D20160306191811&f=1&nofb=1)
 ### Features 
 
-  ***State Preservation*** - VS Code will always open in the same state you left it in.  This is an extremely handy feature. Let's try opening a directory or something and then completely closing out of VS Code. Now let's reopen the project, and look! Everything is right how we left it!
+  ***State Preservation*** - VS Code will always open in the same state you left it in.  This is an extremely handy feature. Let's try opening a directory or something and then completely closing out of VS Code. Now let's reopen the project, and look! Everything is right how we left it! (If this didn't work for you, don't worry, it will later on.)
 
-  ***Side by Side Editing*** - You can rearrange your editor windows so that you can view several at once. This can be *super* handy. Let's try that!
+  ***Side by Side Editing*** - You can rearrange your editor windows so that you can view several at once. This can be *super* handy. Let's try that! Click on a file in the side bar and hold and drag it to one side of the Editor Group section. You should see a hilighted section where the file will be opened.
 
-  ***MiniMap*** - You can also display a code outline or "minimap" for quick navigation through a lot of code. Try View -> Show Minimap. There's a bunch of fake code in ` code.js ` that we can jump around in with the minimap. Let's try!
+  ***MiniMap*** - You can also display a code outline or "minimap" for quick navigation through a lot of code. Try View -> Show Minimap. There's a bunch of fake code in ` code.js ` that we can jump around in with the minimap (don't worry it's all fake and non-working). Let's try! With the minimap enabled, you can see a miniature layout of your entire file displayed to the right of your code. Click anywhere on that display and you will jump to that section of the code.
 
-  ***Breadcrumbs*** - Above each open file is a path to help you keep track of the file locations.
+  ***Breadcrumbs*** - Above each open file is a path to help you keep track of the file locations. This can be a nice reference.
 <br>
 <br>
 
 ***
 
-![RedPill](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F18f.gsa.gov%2Fassets%2Fblog%2Flego-workshop%2Fred-pill.gif&f=1&nofb=1)
+![Red Pill](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F18f.gsa.gov%2Fassets%2Fblog%2Flego-workshop%2Fred-pill.gif&f=1&nofb=1)
   
 ### Hot Keys and Shortcuts
 
