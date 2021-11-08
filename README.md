@@ -117,7 +117,7 @@ VS Code allows for user-created extensions to be installed to add features, them
        - installs Prettier *globally* on our machines so we always have it
      - ` touch ~/.prettierrc `
        - places a Prettier file in our root directory
-     - ` echo "{"trailingComma": "none", "tabWidth": 2, "bracketSpacing": true, "useTabs": false, "semi": false, "singleQuote": true}" > ~/.prettierrc `
+     - ` echo "{"trailingComma": "none", "tabWidth": 2, "bracketSpacing": true, "useTabs": false, "semi": true, "singleQuote": true}" > ~/.prettierrc `
        - this inserts certain settings into the file we just created that tell Prettier how to format our code
   4. Open the Command Palette with <kbd>Shft</kbd> + <kbd>Cmd</kbd> + <kbd>P</kbd> and search "settings".  Open the first one that pops up. It should say: "**Preferences: Open Settings (JSON)**". These are just default settings for Prettier to be able to operate like we need it to. Paste the following *inside the last closing bracket*:
   ```json
